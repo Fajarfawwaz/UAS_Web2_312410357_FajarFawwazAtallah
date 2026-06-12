@@ -25,9 +25,14 @@ Repositori ini berisi sistem informasi pengelolaan data buku (E-Library) yang di
 *Lampiran: Pengujian endpoint `POST` pada Postman tanpa token. Sistem berhasil memblokir akses dan mengembalikan status **401 Unauthorized** sebagai bukti `AuthFilter` bekerja dengan baik.*
 
 ### 3. Antarmuka Aplikasi (Frontend)
-* **Halaman Login**: <img width="800" alt="image" src="https://github.com/user-attachments/assets/2f2227ea-6834-4cc8-a4a4-036e85b08c14" />
+* **Halaman Login**:
 
-* **Dashboard Admin**: ![Dashboard](path/ke/dashboard.png)
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2f2227ea-6834-4cc8-a4a4-036e85b08c14" />
+
+* **Dashboard Admin**:
+
+<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/19b1885f-4ada-446c-887d-a366aa639ba0" />
+
 * **Tabel Data**: ![Tabel](path/ke/tabel.png)
 *Antarmuka mengimplementasikan konsep Glassmorphism dan desain Ultra-Modern.*
 
