@@ -65,4 +65,10 @@ Repositori ini berisi sistem informasi pengelolaan data buku (E-Library) yang di
 
 * **Video Presentasi**: https://youtu.be/h1v2-FyxK3k?si=VOclIW_v_WjoJG05
 
-
+## 🔗 Link Demo
+* **Frontend Demo**: [Masukkan Link Vercel/Netlify Anda di sini]
+* **Catatan**: 
+  * Demo *frontend* di atas bersifat *live preview* untuk antarmuka pengguna.
+  * Untuk fungsionalitas penuh (CRUD data), aplikasi menggunakan *backend* berbasis API yang berjalan di lingkungan lokal (`localhost`).
+  * Silakan saksikan video presentasi di bawah untuk melihat alur kerja lengkap (Frontend + Backend + Keamanan API).
+* **Video Presentasi**: [Link YouTube Anda]
