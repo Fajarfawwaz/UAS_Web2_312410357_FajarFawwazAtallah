@@ -31,9 +31,14 @@ Repositori ini berisi sistem informasi pengelolaan data buku (E-Library) yang di
 
 * **Dashboard Admin**:
 
-<img width="959" height="474" alt="image" src="https://github.com/user-attachments/assets/19b1885f-4ada-446c-887d-a366aa639ba0" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/19b1885f-4ada-446c-887d-a366aa639ba0" />
 
-* **Tabel Data**: ![Tabel](path/ke/tabel.png)
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/245ef2ea-8abe-42aa-8ded-a0879aed901f" />
+
+* **Tabel Data**:
+
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/05132daa-afe3-473f-9657-8383b0c2c50d" />
+
 *Antarmuka mengimplementasikan konsep Glassmorphism dan desain Ultra-Modern.*
 
 ## 🚀 Petunjuk Instalasi & Menjalankan
@@ -44,3 +49,16 @@ Repositori ini berisi sistem informasi pengelolaan data buku (E-Library) yang di
 3. Jalankan server lokal:
 ```bash
    php spark serve
+```
+
+### Frontend
+
+1. Masuk ke folder frontend-spa/.
+
+2. Buka index.html menggunakan browser atau jalankan melalui live server lokal.
+
+3. Pastikan API backend berjalan di ``` http://localhost:8080 ``` agar Axios dapat terhubung dengan sukses.
+
+## 🔗 Presentasi
+
+* **Video Presentasi**: 
